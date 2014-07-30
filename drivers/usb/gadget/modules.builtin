@@ -1,0 +1,2 @@
+kernel/drivers/usb/gadget/udc-core.ko
+kernel/drivers/usb/gadget/xilinx_usbps_udc.ko

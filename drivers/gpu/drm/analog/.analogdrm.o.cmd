@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/analog/analogdrm.o := arm-xilinx-linux-gnueabi-ld -EL    -r -o drivers/gpu/drm/analog/analogdrm.o drivers/gpu/drm/analog/analog_drm_encoder.o drivers/gpu/drm/analog/analog_drm_crtc.o drivers/gpu/drm/analog/analog_drm_drv.o 

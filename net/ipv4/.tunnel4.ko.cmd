@@ -1,0 +1,1 @@
+cmd_net/ipv4/tunnel4.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/z/zedboard/MIAT/linux-3.6.0-MIAT/scripts/module-common.lds --build-id  -o net/ipv4/tunnel4.ko net/ipv4/tunnel4.o net/ipv4/tunnel4.mod.o

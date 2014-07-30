@@ -1,0 +1,5 @@
+kernel/drivers/gpu/drm/drm_kms_helper.ko
+kernel/drivers/gpu/drm/drm_kms_cma_helper.ko
+kernel/drivers/gpu/drm/drm.ko
+kernel/drivers/gpu/drm/analog/analogdrm.ko
+kernel/drivers/gpu/drm/i2c/adv7511.ko

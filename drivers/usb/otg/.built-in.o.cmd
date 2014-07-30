@@ -1,0 +1,1 @@
+cmd_drivers/usb/otg/built-in.o :=  arm-xilinx-linux-gnueabi-ld -EL    -r -o drivers/usb/otg/built-in.o drivers/usb/otg/otg.o drivers/usb/otg/ulpi.o drivers/usb/otg/ulpi_viewport.o drivers/usb/otg/xilinx_usbps_otg.o 
