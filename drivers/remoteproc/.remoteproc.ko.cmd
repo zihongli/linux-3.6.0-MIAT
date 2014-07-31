@@ -1,1 +1,0 @@
-cmd_drivers/remoteproc/remoteproc.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/z/zedboard/MIAT/linux-3.6.0-MIAT/scripts/module-common.lds --build-id  -o drivers/remoteproc/remoteproc.ko drivers/remoteproc/remoteproc.o drivers/remoteproc/remoteproc.mod.o

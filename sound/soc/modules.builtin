@@ -1,4 +1,0 @@
-kernel/sound/soc/snd-soc-core.ko
-kernel/sound/soc/xlnx/snd-soc-xilinx-pcm.ko
-kernel/sound/soc/xlnx/snd-soc-axi-spdif.ko
-kernel/sound/soc/xlnx/snd-soc-adv7511-hdmi.ko

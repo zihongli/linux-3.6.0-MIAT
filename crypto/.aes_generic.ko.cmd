@@ -1,1 +1,0 @@
-cmd_crypto/aes_generic.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/z/zedboard/MIAT/linux-3.6.0-MIAT/scripts/module-common.lds --build-id  -o crypto/aes_generic.ko crypto/aes_generic.o crypto/aes_generic.mod.o

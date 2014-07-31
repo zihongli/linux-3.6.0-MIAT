@@ -1,1 +1,0 @@
-cmd_drivers/usb/gadget/g_file_storage.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/z/zedboard/MIAT/linux-3.6.0-MIAT/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_file_storage.ko drivers/usb/gadget/g_file_storage.o drivers/usb/gadget/g_file_storage.mod.o

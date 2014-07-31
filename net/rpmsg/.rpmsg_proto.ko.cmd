@@ -1,1 +1,0 @@
-cmd_net/rpmsg/rpmsg_proto.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/z/zedboard/MIAT/linux-3.6.0-MIAT/scripts/module-common.lds --build-id  -o net/rpmsg/rpmsg_proto.ko net/rpmsg/rpmsg_proto.o net/rpmsg/rpmsg_proto.mod.o

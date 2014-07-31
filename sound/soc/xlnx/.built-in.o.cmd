@@ -1,1 +1,0 @@
-cmd_sound/soc/xlnx/built-in.o :=  arm-xilinx-linux-gnueabi-ld -EL    -r -o sound/soc/xlnx/built-in.o sound/soc/xlnx/snd-soc-xilinx-pcm.o sound/soc/xlnx/snd-soc-axi-spdif.o sound/soc/xlnx/snd-soc-adv7511-hdmi.o 
